@@ -3,7 +3,7 @@ title: contact
 layout: page
 ---
 <div align="center">
-<img src="/static/front_HQ4.jpg" alt="Sup" width="80%" height="400">
+<img src="/static/front_HQ4.jpg" alt="Sup" width="80%" height="300">
 </div>
 <!-- ![](/static/front6.jpeg)  -->
 - inbox : freefall25@proton.me
