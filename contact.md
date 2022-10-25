@@ -24,7 +24,7 @@ Feel Free To Contact Me
 
 <div align="center">
 <br>
-<h1>Say hello and no doxxing pls</h1><br>
+<h1>Say hello but no doxxing pls</h1><br>
 inbox: <a href="mailto:freefall25@proton.me">freefall25@proton.me</a><br>
 instagram: <a href="https://www.instagram.com/jaiiinaaam">jaiiinaaam</a>
 linkedin: <a href="https://www.linkedin.com/in/jainampanchal/">JainamPanchal1</a>
