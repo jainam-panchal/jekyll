@@ -22,6 +22,4 @@ Listening On Audible
 - Do Epic Shit by Ankur Warikoo 
 - The ONE Thing Book by Gary W. Keller and Jay Papasan
 - The Subtle Art of Not Giving a F*ck
-- The Compound Effect: Multiply Your Success One Simple Step at a Time
-
 
