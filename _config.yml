@@ -55,10 +55,12 @@ plugins:
 header_pages:
   - index.md
   # - jainam.md
+  - bookself.md
   - about.md
   - contact.md
 
 style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: true # false (default) or true
 
-footer: 'connect with me on <a href="https://www.instagram.com/jaiiinaaam/">instagram</a>'
+footer : 'Do better.'
+# footer: 'connect with me on <a href="https://www.instagram.com/jaiiinaaam/">instagram</a>'
