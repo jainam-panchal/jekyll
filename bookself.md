@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bookself
+title: /bookself
 permalink: /bookself/
 ---
 
