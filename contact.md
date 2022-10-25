@@ -6,7 +6,7 @@ layout: page
 <br>
 
 <div align="center">
-<img src="/static/front_HQ4.jpg" alt="Sup" width="80%" height="280px">
+<img src="/static/front_HQ4.jpg" alt="Sup" width="70%" height="70%">
 </div>
 <!-- ![](/static/front6.jpeg)  -->
 
