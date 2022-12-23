@@ -6,7 +6,7 @@ layout: page
 <br>
 
 <div align="center">
-<img src="/static/front_HQ4.jpg" alt="Sup" width="70%" height="70%">
+<img src="/static/front_HQ1.jpg" alt="Sup" width="80%" height="100%">
 </div>
 <div align="center">
 <br>
